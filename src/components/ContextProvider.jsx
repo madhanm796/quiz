@@ -5,7 +5,7 @@ export const AppContext = createContext();
 
 function ContextProvider({children}) {
 
-    const apiUrl = 'http://localhost:3000/api';
+    const apiUrl = 'https://quiz-backend-phpf.onrender.com/api';
     
 
   return (
