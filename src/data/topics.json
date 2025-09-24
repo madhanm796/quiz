@@ -1,0 +1,20 @@
+[
+    {
+      "id": 0,
+      "icon": "🎯",
+      "title": "Getting Started with React",
+      "description": "Learn the fundamentals of React including components, props, and state management"
+    },
+    {
+      "id": 1,
+      "icon": "⚛️",
+      "title": "Advanced React Patterns",
+      "description": "Dive deep into advanced React patterns and best practices"
+    },
+    {
+      "id": 2,
+      "icon": "🔄",
+      "title": "React Hooks in Depth",
+      "description": "Master all the built-in React hooks and learn to create custom hooks"
+    }
+]

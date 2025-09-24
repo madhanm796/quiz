@@ -1,0 +1,12 @@
+[
+    { "id": 0, "icon": "🔍", "text": "All" },
+    { "id": 1, "icon": "🎮", "text": "Gaming" },
+    { "id": 2, "icon": "🎨", "text": "Art" },
+    { "id": 3, "icon": "🎵", "text": "Music" },
+    { "id": 4, "icon": "📚", "text": "Books" },
+    { "id": 5, "icon": "🎬", "text": "Movies" },
+    { "id": 6, "icon": "⚽", "text": "Sports" },
+    { "id": 7, "icon": "🧪", "text": "Science" },
+    { "id": 8, "icon": "💻", "text": "Technology" },
+    { "id": 9, "icon": "🌍", "text": "Geography" }
+]
