@@ -6,9 +6,7 @@ function QuizPage() {
   const quizzes = JSON.parse(sessionStorage.getItem('quizzes'));
   const [currentQuiz, setCurrentQuiz] = useState(null);
   const [selectedAnswers, setSelectedAnswers] = useState({});
-
-  console.log(quizzes)
-
+  
   useEffect(() => {
     setCurrentQuiz(quizzes.find(quiz => quiz.id === params.id));
   }, []);
